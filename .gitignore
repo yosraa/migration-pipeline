@@ -1,0 +1,12 @@
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.vscode/
+venv/
+*.pyc
+*.ipynb
+.coverage
+.DS_Store
+.python-version
+.idea/
+discover/
